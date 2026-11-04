@@ -1,0 +1,7 @@
+websockets>=12.0
+PySide6>=6.6.0
+requests>=2.31.0
+pycaw>=20231007
+comtypes>=1.4.0
+pywin32>=306
+python-dotenv>=1.0.1
